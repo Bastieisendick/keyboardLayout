@@ -75,7 +75,7 @@ F4::
 			
 		}
 		else{
-		    SplashImage, save_text\offline.png, b x1800 y950 
+		    SplashImage, save_text\offline.jpg, b x1800 y950 
             Sleep, 2000
             SplashImage, Off
 		
