@@ -17,6 +17,8 @@ Functions:
 Note that this program has seen better days, so functions like volume muting didnt work as expected on my current operating system (Easily fixable if needed).
 Easy customizing for your own needs or adding more features.
 
+Also this program comes with a starter.ahk to being able to activate and deactivate the keyboardLayout with a button press (End key). To use this, building the keyboardLayout.ahk as an .exe file is required.
+
 
 What you need:
 [Autohotkey](https://www.autohotkey.com/) installed.
